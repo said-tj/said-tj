@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @said-tj
-- 👀 I’m interested in Mathematics...
-- 🌱 I’m currently learning programming...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Hi 👋, I´m Said
 
-<!---
-said-tj/said-tj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Bachelor’s degree in Applied Mathematics  
+📊 Data Analyst | Junior Data Scientist  
+🐍 Python · 📈 R · 📉 Statistics · 🤖 Machine Learning
+
+
+---
+
+## 👨‍💻 About Me
+I’m an Applied Mathematics graduate with a strong interest in data analysis, applied statistics, and machine learning.
+
+I enjoy working with Python and R to clean, analyze, and model data, transforming raw data into meaningful insights and clear visualizations. My mathematical background allows me to approach problems analytically and understand models beyond their surface-level implementation.
+
+I am currently seeking opportunities as a **Data Analyst or Junior Data Scientist**, where I can continue learning and contribute to data-driven projects.
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python, R  
+- **Data Analysis:** Pandas, NumPy, EDA, Data Cleaning  
+- **Statistics:** Descriptive statistics, Regression, Probability  
+- **Machine Learning:** Scikit-learn, Predictive Modeling  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📂 Projects
+- **EMG Signal Analysis** – Statistical analysis and processing of physiological signals  
+- **Data Analysis with R** – Exploratory data analysis and regression models  
+- **Machine Learning Project** – Regression and classification using real-world datasets  
+
+*(More projects coming soon)*
+
+---
+
+## 📫 Contact
+- LinkedIn: [your-linkedin-url]  
+- Email: your.email@example.com  
