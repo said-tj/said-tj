@@ -35,5 +35,5 @@ I am currently seeking opportunities as a **Data Analyst or Junior Data Scientis
 ---
 
 ## 📫 Contact
-- LinkedIn: [your-linkedin-url]  
-- Email: your.email@example.com  
+- LinkedIn: [https://www.linkedin.com/in/saidtecpa/]  
+- Email: said.tecpa.juarez@gmail.com
