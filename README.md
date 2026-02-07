@@ -2,7 +2,7 @@
 
 🎓 Bachelor’s degree in Applied Mathematics  
 📊 Data Analyst | Junior Data Scientist  
-🐍 Python · 📈 R · 📉 Statistics · 🤖 Machine Learning
+🐍 Python · 📈 R · SQL · 📉 Statistics · 🤖 Machine Learning
 
 
 ---
@@ -17,7 +17,7 @@ I am currently seeking opportunities as a **Data Analyst or Junior Data Scientis
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, R  
+- **Programming:** Python, R, SQL 
 - **Data Analysis:** Pandas, NumPy, EDA, Data Cleaning  
 - **Statistics:** Descriptive statistics, Regression, Probability  
 - **Machine Learning:** Scikit-learn, Predictive Modeling  
